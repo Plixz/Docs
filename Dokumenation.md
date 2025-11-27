@@ -5,6 +5,3 @@ as
 da
 sd
 as
-´´´testar kod
-
-´´´
